@@ -57,3 +57,6 @@ function showLBslides(n) {
 } 
 /* =============WOW JS==========*/
 // new WOW().init();
+const d = new Date();
+let year = d.getFullYear();
+document.getElementById("cr-year").innerHTML = year;
