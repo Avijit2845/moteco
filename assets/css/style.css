@@ -539,6 +539,9 @@ opacity:1;
   padding: 2px 16px;
   color: white;
 }
+.lightBox-section .caption-container p{
+    display:none;
+}
 .lightBox-section .box-img {
   opacity: 0.6;
 }
